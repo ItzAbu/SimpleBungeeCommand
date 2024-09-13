@@ -1,0 +1,3 @@
+name: SimpleBungeeCommand
+version: '1.0-SNAPSHOT'
+main: org.Fusion.simpleBungeeCommand.SimpleBungeeCommand
